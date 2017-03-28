@@ -4,9 +4,8 @@
 
 You can download the Mac OS X, Windows and Linux client softwares here:
 
-[Mac OSX](https://itunes.apple.com/app/rocket.chat/id1086818840)
-[Windows](https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/1.3.1/rocketchat-v1.3.1-win32-ia32.exe)
-[Linux](https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/1.3.1/rocketchat-v1.3.1-linux-x64.deb)
+[Rocket.Chat Desktop Clients](https://rocket.chat/download)
+
 
 ## iOS App
 
